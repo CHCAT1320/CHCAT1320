@@ -6,4 +6,4 @@
 
 [![github readme activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CHCAT1320&bg_color=00000000&color=4F8CC9&line=599cab&point=99d1ce&area_color=2aa889&)]()
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=JavaScript,Python)](https://github.com/Jurredr/github-widgetbox) 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=JavaScript,ts,Python)](https://github.com/Jurredr/github-widgetbox) 
