@@ -1,3 +1,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHCAT1320&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHCAT1320)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![github readme activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CHCAT1320&bg_color=00000000&color=4F8CC9&line=599cab&point=99d1ce&area_color=2aa889&)]()
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=JavaScript,Python,markdown， Scratch&includeNames=true)](https://github.com/Jurredr/github-widgetbox) 
