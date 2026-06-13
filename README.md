@@ -1,4 +1,5 @@
 ##### Hello！I'm CHCAT1320 a high school student in China.
+
 ##### You can also call me CHCAT,ChillCat,冰猫,BingCat.
 
 ##### I can speak Chinese and English.But my English is good now.
@@ -7,6 +8,7 @@
 
 ##### I like to play rhythm games, such as Phigros, Rizline, chunithm, maimaiDX, oh and the RPG games Genshin
 
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHCAT1320&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
