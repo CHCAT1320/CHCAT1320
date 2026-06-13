@@ -8,3 +8,7 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=html,css,JavaScript,ts,vue,Python&includeNames=true)](https://github.com/Jurredr/github-widgetbox) 
 
 [![github readme activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CHCAT1320&bg_color=00000000&color=4F8CC9&line=599cab&point=99d1ce&area_color=2aa889&)]()
+
+[![github readme streak stats](https://github-readme-streak-stats.herokuapp.com/?user=CHCAT1320&hide_border=true&show_icons=true&sideLabels=56bcd9&sideNums=56bcd9&dates=56)]()
+
+![CHCAT1320's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CHCAT1320&langs_count=10)
