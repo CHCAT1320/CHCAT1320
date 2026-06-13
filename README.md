@@ -2,7 +2,7 @@
 
 ##### You can also call me CHCAT,ChillCat,冰猫,BingCat.
 
-##### I can speak Chinese and English.But my English is good now.
+##### I can speak Chinese and English.But my English is not good now.
 
 ##### I'm working hard to study.
 
