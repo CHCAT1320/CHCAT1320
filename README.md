@@ -24,3 +24,7 @@
 [![github readme streak stats](https://github-readme-streak-stats.herokuapp.com/?user=CHCAT1320&hide_border=true&show_icons=true&sideLabels=56bcd9&sideNums=56bcd9&dates=56)]()
 
 ![CHCAT1320's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CHCAT1320&langs_count=10)
+
+[![GitHub Roast](https://githubroast.dev/api/card/CHCAT1320)](https://githubroast.dev/u/CHCAT1320)
+
+[![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/CHCAT1320)](https://githubroast.dev/u/CHCAT1320)
